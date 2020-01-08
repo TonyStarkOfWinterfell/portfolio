@@ -7,4 +7,4 @@
 
 ### Social Media
 
-[Youtube](https://youtu.be/dQw4w9WgXcQ)
+[social](https://tonystarkofwinterfell.github.io/portfolio/social.html)
