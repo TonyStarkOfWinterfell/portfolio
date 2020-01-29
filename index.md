@@ -12,9 +12,9 @@
 
 
 
-| Tables        | position      | Cost  |
+| Product       | Cost          | Sell  |
 | ------------- |:-------------:| -----:|
-| Today         | Top           | $1600 |
-| Tomorrow      | middle        |   $12 |
-| yesterday     | are neat      |    $1 |
+| tic tacs      | £1.70         | £3.20 |
+| snickers      | £2.49         | £5.88 |
+| cheese        | £0.90         | £80   |
 
