@@ -1,8 +1,8 @@
 # Gallery
 
  <div>
-      <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-3.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
-        <img class="example-image" src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-3.jpg" alt=""/>
+      <a class="example-image-link" href="assets/Gallery/EndScene.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
+        <img class="example-image" src="assets/Gallery/EndScene_thumb.png" alt=""/>
   </a>
       <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-4.jpg" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard.">
         <img class="example-image" src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-4.jpg" alt="" />
