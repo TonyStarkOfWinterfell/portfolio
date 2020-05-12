@@ -1,7 +1,7 @@
 # Portfolio
 ## Lewis Reid-Warren
 
-[game](https://tonystarkofwinterfell.github.io/WebglGame/index)
+[play my game](https://tonystarkofwinterfell.github.io/WebGLLink/index.html)
 
 ### Skills
 - html
