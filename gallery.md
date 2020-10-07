@@ -1,4 +1,4 @@
-# Gallery
+# First Game
 
  <div>
       <a class="example-image-link" href="assets/Gallery/EndScene.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
