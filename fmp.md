@@ -1,4 +1,4 @@
-# fmp
+# FMP
 
 [play my game](https://tonystarkofwinterfell.github.io/WebGLLink/index.html)
 
