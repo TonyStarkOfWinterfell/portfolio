@@ -5,14 +5,14 @@
 <br>the levels are based on the film: 
 <br>level 1 = thors ship
 <br>level 2 = planet titan
-<br>level 3 = battle on earth (no photos available :( )
+<br>level 3 = battle on earth (no photos available :(      )
 <br>cutscene level = thanos' farm
 
+<br>
 
 
-
-[end cutscene](https://youtu.be/kbTqX8ScaqQ)
-
+[watch the end cutscene here](https://youtu.be/kbTqX8ScaqQ)
+<br>
 
 <div>
       <a class="example-image-link" href="assets/Gallery/INFG.png" data-lightbox="example-set" data-title="The">
@@ -20,6 +20,9 @@
   </a>
   <a class="example-image-link" href="assets/Gallery/INFmenu.png" data-lightbox="example-set" data-title="The">
         <img class="example-image" src="assets/Gallery/INFmenu.png" alt=""/>
+  </a>
+      <a class="example-image-link" href="assets/Gallery/INFcredit.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFcredit.png" alt=""/>
   </a>
   <a class="example-image-link" href="assets/Gallery/INFquit.png" data-lightbox="example-set" data-title="The">
         <img class="example-image" src="assets/Gallery/INFquit.png" alt=""/>
@@ -29,6 +32,12 @@
   </a>
   <a class="example-image-link" href="assets/Gallery/INFL2.png" data-lightbox="example-set" data-title="The">
         <img class="example-image" src="assets/Gallery/INFL2.png" alt=""/>
+  </a>
+  <a class="example-image-link" href="assets/Gallery/INFgem.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFgem.png" alt=""/>
+  </a>
+  <a class="example-image-link" href="assets/Gallery/INFsecr.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFsecr.png" alt=""/>
   </a>
 
      
