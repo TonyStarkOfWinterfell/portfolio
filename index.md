@@ -1,8 +1,17 @@
 
 # Lewis Reid-Warren: Portfolio
- 
+
+ <br>
 Welcome to the home page of my website. this is my portfolio for the games I made whilst attending a games development course in college.
 <br>
+<br>
+<br>
+<br>
+
+
+
+
+
 ### Skills
 - html
 - java
@@ -13,7 +22,7 @@ Welcome to the home page of my website. this is my portfolio for the games I mad
 - unity
 - github
 - sourcetree
-<br>
+
 ### Social Media
 
 [social](https://tonystarkofwinterfell.github.io/portfolio/social.html)
