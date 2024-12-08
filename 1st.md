@@ -5,7 +5,7 @@
 <br>the levels are based on the film: 
 <br>level 1 = thors ship
 <br>level 2 = planet titan
-<br>level 3 = battle on earth (no photos available :(      )
+<br>level 3 = battle on earth (no photos available :(...sorry)
 <br>cutscene level = thanos' farm
 
 <br>
