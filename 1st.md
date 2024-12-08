@@ -1,11 +1,11 @@
 # Infinity War The Video Game
 
 -This was my first game. No limits or worries of copyright due to it being a 'practice excersise' but turned out amazing.
-the levels are based on the film: 
-level 1 = thors ship
-level 2 = planet titan
-level 3 = battle on earth (no photos available :( )
-cutscene level = thanos' farm
+<br>the levels are based on the film: 
+<br>level 1 = thors ship
+<br>level 2 = planet titan
+<br>level 3 = battle on earth (no photos available :( )
+<br>cutscene level = thanos' farm
 
 
 
