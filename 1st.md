@@ -1,15 +1,33 @@
 # Infinity War The Video Game
 
 -This was my first game. No limits or worries of copyright due to it being a 'practice excersise' but turned out amazing.
+the levels are based on the film: 
+level 1 = thors ship
+level 2 = planet titan
+level 3 = battle on earth (no photos available :( )
+cutscene level = thanos' farm
 
-[play my game](https://tonystarkofwinterfell.github.io/WebGLLink/index.html)
 
-[watch gameplay from the game](https://youtu.be/kbTqX8ScaqQ)
+
+
+[end cutscene](https://youtu.be/kbTqX8ScaqQ)
 
 
 <div>
-      <a class="example-image-link" href="assets/Fmp/Level.PNG" data-lightbox="example-set" data-title="Click the right half of the image to move forward.">
-        <img class="example-image" src="assets/Fmp/Level.PNG" alt=""/>
+      <a class="example-image-link" href="assets/Gallery/INFG.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFG.png" alt=""/>
+  </a>
+  <a class="example-image-link" href="assets/Gallery/INFmenu.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFmenu.png" alt=""/>
+  </a>
+  <a class="example-image-link" href="assets/Gallery/INFquit.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFquit.png" alt=""/>
+  </a>
+  <a class="example-image-link" href="assets/Gallery/INFL1.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFL1.png" alt=""/>
+  </a>
+  <a class="example-image-link" href="assets/Gallery/INFL2.png" data-lightbox="example-set" data-title="The">
+        <img class="example-image" src="assets/Gallery/INFL2.png" alt=""/>
   </a>
 
      
