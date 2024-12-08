@@ -1,5 +1,7 @@
 # Infinity War The Video Game
 
+-This was my first game. No limits or worries of copyright due to it being a 'practice excersise' but turned out amazing.
+
 [play my game](https://tonystarkofwinterfell.github.io/WebGLLink/index.html)
 
 [watch gameplay from the game](https://youtu.be/kbTqX8ScaqQ)
