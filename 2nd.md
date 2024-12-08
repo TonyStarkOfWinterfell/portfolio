@@ -1,8 +1,12 @@
 # Racoon game
 
--This was my first official 'copyright free game', based on the SEGA game "Flicky", that focused on an endless looping mechanic.
+-This was my first official 'copyright free game', based on the SEGA game "Flicky", that focused on an endlessly looping sidescrolling mechanic.
+<br>
 
 [play my game](https://tonystarkofwinterfell.github.io/RacWebgLink/)
+
+
+<br>
 
 
  <div>
