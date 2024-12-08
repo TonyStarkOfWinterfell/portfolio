@@ -1,4 +1,6 @@
-# FMP
+# Flappy fish
+
+-This was my third game. The theme was enviromental issues so I chose to combine "Flappy Bird" with ocean pollution.
 
 [play my game](https://tonystarkofwinterfell.github.io/WebGLLink/index.html)
 
