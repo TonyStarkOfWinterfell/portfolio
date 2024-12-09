@@ -11,7 +11,7 @@
 <br>
 
 
-[watch the end cutscene here](https://youtu.be/kbTqX8ScaqQ)
+[watch the end cutscene here](https://www.youtube.com/watch?v=fJBpZRkiV2A)
 <br>
 
 <div>
