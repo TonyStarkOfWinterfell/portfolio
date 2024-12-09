@@ -4,7 +4,6 @@
 
 [play my game](https://tonystarkofwinterfell.github.io/WebGLLink/index.html)
 
-[watch gameplay from the game](https://youtu.be/kbTqX8ScaqQ)
 
 
 <div>
