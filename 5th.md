@@ -17,8 +17,8 @@ This was fun to make as almost everyone in my class enjoyed the conecpt and look
     <a class="example-image-link" href="assets/Gallery/PPmenu.png" data-lightbox="example-set" data-title="the main menu">
         <img class="example-image" src="assets/Gallery/PPmenu.png" alt=""/>
   </a>
-  <a class="example-image-link" href="assets/Gallery/PPtut.png" data-lightbox="example-set" data-title="tutorial text popup">
-        <img class="example-image" src="assets/Gallery/PPtut.png" alt=""/>
+  <a class="example-image-link" href="assets/Gallery/PPtut2.png" data-lightbox="example-set" data-title="tutorial text popup">
+        <img class="example-image" src="assets/Gallery/PPtut2.png" alt=""/>
   </a>
   <a class="example-image-link" href="assets/Gallery/PPscreen.png" data-lightbox="example-set" data-title="the main screen">
         <img class="example-image" src="assets/Gallery/PPscreen.png" alt=""/>
