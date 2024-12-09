@@ -8,7 +8,7 @@ Fun fact: This game was only made possible thanks to the help of my digital art 
 <br>
 This was fun to make as almost everyone in my class enjoyed the conecpt and looked forward to the final result. After completing the game, I sent a copy to the digital arts student and thanked them, only to get a reply not long after, where they mentioned showing it off to their own class and it recieving possitive feedback there too.
 
-[play my game](https://tonystarkofwinterfell.github.io/finalPawsitiveBuild/.html)
+[play my game](https://tonystarkofwinterfell.github.io/finalPawsitiveBuild/)
 
 <br>
 
