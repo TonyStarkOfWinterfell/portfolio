@@ -7,7 +7,7 @@ I chose my 'Raccoon game' to reskin as I liked the mechanics but my art was...la
 
 <br>
 
-[play my game](https://tonystarkofwinterfell.github.io/FReskinWeb/.html)
+[play my game](https://tonystarkofwinterfell.github.io/FReskinWeb/)
 
 <br>
 
