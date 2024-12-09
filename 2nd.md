@@ -10,7 +10,7 @@
 
 
  <div>
-  </a>
+  
       <a class="example-image-link" href="assets/Gallery/TitleScreen.png" data-lightbox="example-set" data-title="Title screen">
         <img class="example-image" src="assets/Gallery/TitleScreen_thumb.png" alt="" />
   </a>
